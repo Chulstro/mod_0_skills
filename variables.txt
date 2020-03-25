@@ -1,0 +1,9 @@
+food = "Sushi"
+is_new = true
+food = "Lasagna"
+num1 = 1
+num2 = 2
+num3 = num1 * num2
+movies = ["Shawshank redemption", "Frozen", "Alien"]
+movies.delete("Alien")
+movies.count
