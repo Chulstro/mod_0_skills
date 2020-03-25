@@ -1,0 +1,13 @@
+Class: Kitchen
+
+Attributes:
+- square_footage (integer)
+- ingredients (array)
+- scheduled_cleaning (boolean)
+- head_of_staff (string)
+
+Methods:
+- remodel (alters square_footage number)
+- depleted_tomatoes (removes tomatoes from ingredients array)
+- cleaned (sets scheduled_cleaningboolean to true for {time_frame})
+- manager_clock_out (changes string for head of staff to next priority employee)
