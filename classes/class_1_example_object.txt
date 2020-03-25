@@ -1,0 +1,13 @@
+Instance: Chik-fil-a Kitchen
+
+Attributes:
+- square_footage (600)
+- ingredients ("buns","chicken","lettuce","tomatoes","cheese")
+- scheduled_cleaning (false)
+- head_of_staff ("Jenny M")
+
+Methods:
+- remodel: square_footage (800)
+- depleted_tomatoes: - ingredients ("buns","chicken","lettuce","cheese")
+- cleaned: scheduled_cleaning (true)
+-manager_clock_out: head_of_staff (John T)
