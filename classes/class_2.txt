@@ -1,0 +1,13 @@
+Class: Parking Lot
+
+Attributes:
+- available_parking_spaces (integer)
+- lot_full (boolean)
+- staff_parking (array)
+- towing_company (string)
+
+Methods:
+- add_cars (decreases available_parking_spaces integer)
+- close_lot (sets lot_full boolean to true)
+- add_staff_parking (adds additional parking designated to staff)
+- update_towing_company (sets towing_company string to new company)
